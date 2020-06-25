@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.jnoss.xyz/categories/</loc>
+    <loc>https://start.jnoss.xyz/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.jnoss.xyz/</loc>
+    <loc>https://start.jnoss.xyz/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.jnoss.xyz/tags/</loc>
+    <loc>https://start.jnoss.xyz/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
